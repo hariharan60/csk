@@ -26,7 +26,7 @@
 			}
 			else
 			{
-				echo "an arror occured somewhere.Tryagain or contact the admin";
+				echo "an arror  not occured somewhere.Tryagain or contact the admin";
 			}
 		}
 		else{
